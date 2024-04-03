@@ -1,9 +1,11 @@
 body{
-    background-color: #bdb8da;
+    background-color: #d8d7e4;
 }
 .main{
     max-width: 870px;
-    
+}
+.first-sec{
+    border-bottom: 1px solid gray;
 }
 .main h3{
     color:#562EFF;
@@ -14,9 +16,6 @@ body{
 }
 .player img{
     width: 56px;
-}
-.container-fluid{
-    border-bottom: 1px solid gray;
 }
 .main-1{
     max-width: 870px;
@@ -30,5 +29,12 @@ body{
 }
 .main-3 img{
     width: 252px;
-    height: 102pxs;
+    height: 102px;
+    display:block;
+}
+.col-sm-12{
+    display: block;
+}
+.header-nav{
+    max-width: 870px;
 }
